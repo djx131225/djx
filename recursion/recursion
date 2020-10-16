@@ -1,0 +1,5 @@
+'''调用递归测试递归是否可行，错误可优化'''
+from recursion import recursion1 as r
+from recursion import recursion2 as r2
+print(r.ass())
+print(r2.list_insert_number())
